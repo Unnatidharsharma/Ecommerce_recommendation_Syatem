@@ -1,0 +1,1 @@
+return render_template('main.html', content_based_rec=content_based_rec)
